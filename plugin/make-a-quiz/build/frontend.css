@@ -1,0 +1,29 @@
+/*!******************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/frontend.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************/
+.quiz-frontend {
+  background-color: #ebebeb;
+  padding: 20px;
+}
+.quiz-frontend p {
+  font-size: 1.5rem;
+}
+.quiz-frontend ul {
+  padding-right: 30px;
+}
+.quiz-frontend li {
+  margin: 10px 0;
+  padding-left: 10px;
+  cursor: pointer;
+  list-style: inside;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+.quiz-frontend li:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+}
+.quiz-frontend .true {
+  color: darkgreen;
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=frontend.css.map*/

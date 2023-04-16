@@ -1,0 +1,29 @@
+.banner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(../images/ocean.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+
+  h1 {
+    margin: 50px 0 0 0;
+    font-size: 3rem;
+  }
+}
+
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 4px;
+  overflow: hidden;
+  text-decoration: none;
+  color: darkcyan;
+  background-color: lightcyan;
+  font-size: 1.19rem;
+  padding: 12px 24px;
+  margin: 20px 0 50px 0;
+  border: none;
+  outline: none;
+}

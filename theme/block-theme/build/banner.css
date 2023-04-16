@@ -1,0 +1,33 @@
+/*!*******************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./blocks/banner.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************/
+.banner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(images/ocean.1c6163d9.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+.banner h1 {
+  margin: 50px 0 0 0;
+  font-size: 3rem;
+}
+
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 4px;
+  overflow: hidden;
+  text-decoration: none;
+  color: darkcyan;
+  background-color: lightcyan;
+  font-size: 1.19rem;
+  padding: 12px 24px;
+  margin: 20px 0 50px 0;
+  border: none;
+  outline: none;
+}
+
+/*# sourceMappingURL=banner.css.map*/
